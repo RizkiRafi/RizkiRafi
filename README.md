@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Renata Rizki Rafi` Athallah</h1>
 <h3 align="center">I am a fresh graduate of Informatics Engineering, Computer Science, Brawijaya University and have an interest in Data Science. I can analyze and process data. I am an independent individual and can work in a team.</h3>
 
-- 📫 How to reach me **https://www.linkedin.com/in/renata-rizki-rafi-athallah-20732524b/**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/renata-rizki-rafi-athallah-20732524b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renata-rizki-rafi-athallah-20732524b" height="30" width="40" /></a>
